@@ -1,0 +1,13 @@
+ol{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0px;
+    padding:50px;
+}
+li a{
+    text-decoration: none;
+    color:beige;
+    font-size: large;
+    padding: 50px;
+}
